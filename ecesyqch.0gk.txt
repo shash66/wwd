@@ -1,0 +1,34 @@
+﻿added files for the theme
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   .gitattributes
+#	new file:   .gitignore
+#	new file:   css/.gitattributes
+#	new file:   css/.gitignore
+#	new file:   css/buttons.css
+#	new file:   css/layout.css
+#	new file:   css/skeleton.css
+#	new file:   css/style.css
+#	new file:   images/.gitattributes
+#	new file:   images/.gitignore
+#	new file:   images/comment-arrow.gif
+#	new file:   images/dark/arrow_bullet.png
+#	new file:   images/gradient_small_trans.png
+#	new file:   images/light/arrow_bullet.png
+#	new file:   images/search-button.png
+#	new file:   screenshot.png
+#	new file:   skeletontheme.info
+#	new file:   template.php
+#	new file:   templates/.gitattributes
+#	new file:   templates/.gitignore
+#	new file:   templates/comment-wrapper.tpl.php
+#	new file:   templates/comment.tpl.php
+#	new file:   templates/node.tpl.php
+#	new file:   templates/page.tpl - Copy.php
+#	new file:   templates/page.tpl.php
+#
+
